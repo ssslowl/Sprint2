@@ -15,7 +15,7 @@
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="#">Log out</a>
+        <a class="nav-link" href="/SprintTask2_Web_exploded/logout">Log out</a>
     </li>
 
 
